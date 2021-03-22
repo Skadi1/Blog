@@ -1,0 +1,6 @@
+{
+    "PORT": "5000",
+    "JWTsecretKey": "kjhgcfdsrdtyfugihojoupu928763sft",
+    "mongoUri": "mongodb+srv://dinu:dan1234@cluster0.dziuv.mongodb.net/BLOG_DATA?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
